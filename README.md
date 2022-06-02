@@ -1,7 +1,9 @@
 # magnetmod
 A magnet mod for evertech sandbox.
 I have created this code and most of the images. It has no copyright, but if you feature it to the
-online public please give me credit, it was a lot of work.
+online public please give me credit, it was a lot of work. 
+This idea was mine, but I referenced the everlogic mod created by Veka and used the logic model
+from the everlogic mod.
 
 After downloading the zip file, extract the file inside and put it in your evertech mods file.
 
