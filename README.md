@@ -9,3 +9,5 @@ After downloading the zip file, extract the file inside and put it in your evert
 
 This mod features a single block, the magnet block, it has two modes pull and push. You switch the
 modes by clicking the block, you turn it on by a connection for example, a switch, button, ect.
+The magenet will move any block in range and disconnected from the ground or blocks on bearings.
+UPDATE : Magnet block will now push and pull itself if both the magnet and the block it is moving are loose.
